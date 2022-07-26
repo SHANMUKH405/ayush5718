@@ -1,0 +1,158 @@
+body{
+    margin:0;
+    text-align: center;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-color: #FCF8E8;
+  color:#40515E;
+}
+h1{
+    margin-top: 100px;
+    font-family: sacramento;
+    font-size: 4.625em;
+    color:blueviolet;
+    
+}
+
+h2{
+    font-family: montserrat;
+    font-weight: normal;
+    color: #0d87e0;
+}
+h3{
+    font-family: montserrat;
+    color: #f95c2d;
+    margin-top: 26.72px;
+}
+.top-container {
+    background-color: #ecdedf;
+    
+    padding-top:100px;
+    position:relative;
+    font-size: 30px;
+    
+}
+.indian-flag{
+    width:200;
+    height:200;
+}
+.back-img{
+    position:absolute;
+    top:200px;
+}
+.top-cloud{
+
+    position: absolute;
+    left: 985px;
+    height: 192px;
+  top: 25px;
+}
+   
+   
+
+.bottom-cloud{
+    position: absolute;
+    height: 182px;
+    left: 122px;
+top: 300px;
+
+}
+span{
+    text-decoration: underline;
+}
+p{
+    line-height: 2;
+}
+hr{
+    border: dotted #40515E;
+    border-bottom: none;
+    width: 2%;
+    margin-top: 41px;
+    margin-bottom: 41px;
+}
+.mountain-img{
+    
+    padding-top: 30px;
+}
+.mid-container {
+ 
+}
+.bottom-container{
+  
+
+}
+.intro{
+    margin-top: 30px;
+    width:30%;
+    margin:auto;
+}
+.mypic{
+    height: 150px;
+    width:150px;
+    margin-top: 50px;
+}
+.skills{
+    margin-top: 50px;
+}
+.skill-row{
+    margin:100px auto 100px auto;
+    text-align: left;
+    width:50%;
+    color: #0d32f9;
+}
+.html{
+    width:21%;
+    float: left;
+    margin-right: 30px;
+   
+
+}
+.c{
+    float: right;
+    width: 20%;
+    margin-left: 33px;
+    margin-top:-20px;
+  }
+  .contact-message{
+    width: 30%;
+    margin: 60px auto;
+  }
+  .btn {
+    -webkit-border-radius: 4;
+    -moz-border-radius: 4;
+    border-radius: 4px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #3498db;
+    padding: 9px 20px 10px 20px;
+    text-decoration: none;
+    margin:30px auto;
+  }
+  
+  .btn:hover {
+    background: #f41c5d;
+    text-decoration: none;
+  }
+  .bottom-container{
+    margin-top: 60px;
+    background-color: #5086aa78;
+    padding: 43px 0px 13px;
+  }
+  .copyright{
+    font-size: 0.75em;    
+        
+      
+  }
+  .footer-link{
+ 
+  }
+a{
+    color:rgb(4, 82, 250);
+    text-decoration: none;
+    font-family: montserrat;
+    margin: 10px 20px;
+}
+.footer-link:hover{
+    color:red;
+}
+
